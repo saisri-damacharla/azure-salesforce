@@ -1,0 +1,9 @@
+{
+	"name": "sddkb-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4a5481e6-aa27-4748-92ab-b0e03049bd7f",
+		"tenantId": "e3fefdbe-f7e9-401b-a51a-355e01b05a89"
+	}
+}
